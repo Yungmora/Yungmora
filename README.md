@@ -41,7 +41,7 @@ I build responsive, accessible, and user-focused web applications using modern f
 ---
 
 ### 🌐 Personal Portfolio
-🔗 Live: https://yungmora.github.io/Yungmora-Website/#hero  
+🔗 Live: https://yungmora.github.io/Yungmora_landing 
 
 - Designed and developed a responsive landing page  
 - Focused on layout structure and clean UI  
@@ -52,13 +52,6 @@ I build responsive, accessible, and user-focused web applications using modern f
 ### 🛒 E-commerce App *(In Development)*  
 
 ---
-
-
-<div class="project-links">
-  <a href="https://group3-capstone-project.vercel.app/">Live Demo</a>
-  <a href="https://yungmora.github.io/Yungmora_landing">Landing Page</a>
-  <a href="https://github.com/Yungmora">GitHub</a>
-</div>
 
 ## 📈 GitHub Stats
 
