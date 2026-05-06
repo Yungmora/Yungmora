@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Chikezie Samuel Emeka</h1>
-<h3 align="center">Frontend Developer | React Developer | Open to Internship Opportunities</h3>
+<h3 align="center">Frontend Developer | React Developer</h3>
 
 <p align="center">
-I build responsive, modern and user-friendly web applications using frontend technologies.
+I build responsive, accessible, and user-focused web applications using modern frontend technologies.
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🌍 Based in Lagos, Nigeria  
+- 🎓 Completed TSAcademy Frontend Program  
+- 💻 Focused on building clean, responsive, and user-friendly interfaces  
+- ⚛️ Strong interest in React and modern JavaScript  
+- 📈 Continuously improving through real-world projects  
 
 ---
 
@@ -20,12 +30,35 @@ I build responsive, modern and user-friendly web applications using frontend tec
 
 ## 📌 Featured Projects
 
-- 🎓 Capstone Project Portal  
-- 🌐 Responsive Landing Page  
-- 💰 Expense Tracker *(Coming Soon)*  
-- 🛒 E-commerce App *(In Development)*
+### 🎓 Capstone Project (React)
+🔗 Live: https://group3-capstone-project.vercel.app/  
+🔗 Repo: https://github.com/jerrybarry/frontend-capstone-group3  
+
+- Built and implemented the footer component  
+- Ensured responsiveness across all screen sizes  
+- Collaborated with a team using Git & GitHub  
 
 ---
+
+### 🌐 Personal Portfolio
+🔗 Live: https://yungmora.github.io/Yungmora-Website/#hero  
+
+- Designed and developed a responsive landing page  
+- Focused on layout structure and clean UI  
+
+---
+
+### 💰 Expense Tracker *(Coming Soon)*  
+### 🛒 E-commerce App *(In Development)*  
+
+---
+
+
+<div class="project-links">
+  <a href="https://group3-capstone-project.vercel.app/">Live Demo</a>
+  <a href="https://yungmora.github.io/Yungmora_landing">Landing Page</a>
+  <a href="https://github.com/Yungmora">GitHub</a>
+</div>
 
 ## 📈 GitHub Stats
 
@@ -37,5 +70,5 @@ I build responsive, modern and user-friendly web applications using frontend tec
 
 ## 🤝 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/chikezie-samuel-857b65392/
-- Email: chikeziesamuelchikezie@gmail.com
+- LinkedIn: https://linkedin.com/in/chikezie-samuel-857b65392/  
+- Email: chikeziesamuelchikezie@gmail.com  
