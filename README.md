@@ -40,11 +40,22 @@ I build responsive, accessible, and user-focused web applications using modern f
 
 ---
 
-### 🌐 Personal Portfolio
+### 🌐 Portfolio Landing Page
 🔗 Live: https://yungmora.github.io/Yungmora_landing/
+  
 
 - Designed and developed a responsive landing page  
 - Focused on layout structure and clean UI  
+
+---
+
+### 🌐 Personal Portfolio Website
+🔗 Live: https://yungmora.github.io/Yungmora-Website/#/
+  
+
+- Designed and developed a responsive multi-page website  
+- Showcases music production, projects, and personal brand identity  
+- Focused on responsive design, navigation structure, and clean UI
 
 ---
 
